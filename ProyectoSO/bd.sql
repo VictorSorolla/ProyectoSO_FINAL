@@ -1,0 +1,99 @@
+DROP DATABASE IF EXISTS bd;
+CREATE DATABASE bd;
+USE bd;
+
+CREATE TABLE Jugador
+(
+	ID INT NOT NULL,
+	USERNAME VARCHAR(60) NOT NULL,
+	PASSWORD VARCHAR(60) NOT NULL,
+	PRIMARY KEY(ID)
+
+)ENGINE=InnoDB;
+
+CREATE TABLE Partida
+(
+	ID INT NOT NULL,
+	FECHA VARCHAR(60),
+	GANADOR VARCHAR(60),
+	PRIMARY KEY(ID)
+	
+)ENGINE=InnoDB;
+
+CREATE TABLE Participacion
+(
+	ID_P INT NOT NULL,
+	ID_J INT NOT NULL,
+	FOREIGN KEY(ID_J) REFERENCES Jugador(ID),
+	FOREIGN KEY(ID_P) REFERENCES Partida(ID)
+
+)ENGINE=InnoDB;
+
+INSERT INTO Jugador VALUES (1,'KingBron23','Hello');
+INSERT INTO Jugador VALUES (2,'GOAT10','Hola');
+INSERT INTO Jugador VALUES (3,'Serre7','Ola');
+INSERT INTO Jugador VALUES (4,'Dembo11','Salut');
+INSERT INTO Jugador VALUES (5,'Viniciuu21','Halo');
+
+INSERT INTO Partida VALUES (1,'2021-05-15','GOAT10');
+INSERT INTO Partida VALUES (2,'2021-05-17','Dembo11');
+INSERT INTO Partida VALUES (3,'2021-05-23','KingBron23');
+INSERT INTO Partida VALUES (4,'2021-06-07','GOAT10');
+INSERT INTO Partida VALUES (5,'2021-06-08','GOAT10');
+INSERT INTO Partida VALUES (6,'2021-06-08','Dembo11');
+INSERT INTO Partida VALUES (7,'2021-06-10','KingBron23');
+INSERT INTO Partida VALUES (8,'2021-06-11','KingBron23');
+INSERT INTO Partida VALUES (9,'2021-06-11','Serre7');
+INSERT INTO Partida VALUES (10,'2021-06-10','Viniciuu21');
+
+INSERT INTO Participacion VALUES (1,2);
+INSERT INTO Participacion VALUES (1,1);
+INSERT INTO Participacion VALUES (2,4);
+INSERT INTO Participacion VALUES (2,5);
+INSERT INTO Participacion VALUES (3,1);
+INSERT INTO Participacion VALUES (3,4);
+INSERT INTO Participacion VALUES (4,5);
+INSERT INTO Participacion VALUES (4,2);
+INSERT INTO Participacion VALUES (5,2);
+INSERT INTO Participacion VALUES (5,3);
+INSERT INTO Participacion VALUES (6,3);
+INSERT INTO Participacion VALUES (6,4);
+INSERT INTO Participacion VALUES (7,3);
+INSERT INTO Participacion VALUES (7,1);
+INSERT INTO Participacion VALUES (8,2);
+INSERT INTO Participacion VALUES (8,1);
+INSERT INTO Participacion VALUES (9,3);
+INSERT INTO Participacion VALUES (9,5);
+INSERT INTO Participacion VALUES (10,3);
+INSERT INTO Participacion VALUES (10,5);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

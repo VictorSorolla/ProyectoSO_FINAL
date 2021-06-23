@@ -1,0 +1,194 @@
+C:\Users\Victor\Downloads\Modern-Media-Player-UI-C-Sharp-master\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.csprojAssemblyReference.cache
+C:\Users\Victor\Downloads\Modern-Media-Player-UI-C-Sharp-master\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.csproj.GenerateResource.cache
+C:\Users\Victor\Downloads\Modern-Media-Player-UI-C-Sharp-master\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Downloads\Modern-Media-Player-UI-C-Sharp-master\ProyectoSO\PlayerUI\bin\Debug\ProyectoSO.exe.config
+C:\Users\Victor\Downloads\Modern-Media-Player-UI-C-Sharp-master\ProyectoSO\PlayerUI\bin\Debug\ProyectoSO.exe
+C:\Users\Victor\Downloads\Modern-Media-Player-UI-C-Sharp-master\ProyectoSO\PlayerUI\bin\Debug\ProyectoSO.pdb
+C:\Users\Victor\Downloads\Modern-Media-Player-UI-C-Sharp-master\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.exe
+C:\Users\Victor\Downloads\Modern-Media-Player-UI-C-Sharp-master\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.pdb
+C:\Users\Victor\Downloads\Modern-Media-Player-UI-C-Sharp-master\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.Form1.resources
+C:\Users\Victor\Downloads\Modern-Media-Player-UI-C-Sharp-master\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.Form2.resources
+C:\Users\Victor\Downloads\Modern-Media-Player-UI-C-Sharp-master\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.Form3.resources
+C:\Users\Victor\Downloads\Modern-Media-Player-UI-C-Sharp-master\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.Properties.Resources.resources
+C:\Users\Victor\Downloads\Modern-Media-Player-UI-C-Sharp-master\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.RegistroForm.resources
+C:\Users\Victor\Documents\SO\ProyectoSO\PlayerUI\bin\Debug\ProyectoSO.exe.config
+C:\Users\Victor\Documents\SO\ProyectoSO\PlayerUI\bin\Debug\ProyectoSO.exe
+C:\Users\Victor\Documents\SO\ProyectoSO\PlayerUI\bin\Debug\ProyectoSO.pdb
+C:\Users\Victor\Documents\SO\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.csprojAssemblyReference.cache
+C:\Users\Victor\Documents\SO\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.Form3.resources
+C:\Users\Victor\Documents\SO\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.Properties.Resources.resources
+C:\Users\Victor\Documents\SO\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.RegistroForm.resources
+C:\Users\Victor\Documents\SO\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.csproj.GenerateResource.cache
+C:\Users\Victor\Documents\SO\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Documents\SO\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.exe
+C:\Users\Victor\Documents\SO\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.pdb
+C:\Users\Victor\Documents\SO\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.EliminarForm.resources
+C:\Users\Victor\Documents\SO\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.PrincipalForm.resources
+C:\Users\Victor\Documents\SO\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.JuegoForm.resources
+D:\Escritorio\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.csprojAssemblyReference.cache
+D:\Escritorio\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.EliminarForm.resources
+D:\Escritorio\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.JuegoForm.resources
+D:\Escritorio\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.LoginForm.resources
+D:\Escritorio\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.PrincipalForm.resources
+D:\Escritorio\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.Properties.Resources.resources
+D:\Escritorio\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.csproj.GenerateResource.cache
+D:\Escritorio\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.csproj.CoreCompileInputs.cache
+D:\Escritorio\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.exe
+D:\Escritorio\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.pdb
+D:\Escritorio\ProyectoSO\PlayerUI\bin\Debug\ProyectoSO.exe.config
+D:\Escritorio\ProyectoSO\PlayerUI\bin\Debug\ProyectoSO.exe
+D:\Escritorio\ProyectoSO\PlayerUI\bin\Debug\ProyectoSO.pdb
+D:\Escritorio\ProyectoSO\PlayerUI\bin\Debug\Guna.UI2.dll
+D:\Escritorio\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.csproj.CopyComplete
+C:\Users\Óscar\Downloads\+\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.csprojAssemblyReference.cache
+C:\Users\Óscar\Downloads\+\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.EliminarForm.resources
+C:\Users\Óscar\Downloads\+\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.JuegoForm.resources
+C:\Users\Óscar\Downloads\+\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.LoginForm.resources
+C:\Users\Óscar\Downloads\+\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.PrincipalForm.resources
+C:\Users\Óscar\Downloads\+\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.Properties.Resources.resources
+C:\Users\Óscar\Downloads\+\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.csproj.GenerateResource.cache
+C:\Users\Óscar\Downloads\+\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.csproj.CoreCompileInputs.cache
+C:\Users\Óscar\Downloads\+\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.exe
+C:\Users\Óscar\Downloads\+\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.pdb
+C:\Users\Óscar\Downloads\+\ProyectoSO\PlayerUI\bin\Debug\ProyectoSO.exe.config
+C:\Users\Óscar\Downloads\+\ProyectoSO\PlayerUI\bin\Debug\ProyectoSO.exe
+C:\Users\Óscar\Downloads\+\ProyectoSO\PlayerUI\bin\Debug\ProyectoSO.pdb
+C:\Users\Óscar\Downloads\+\ProyectoSO\PlayerUI\bin\Debug\Guna.UI2.dll
+C:\Users\Óscar\Downloads\+\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.csproj.CopyComplete
+C:\Users\Óscar\Downloads\+\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.AyudaForm.resources
+C:\Users\Victor\Downloads\ProyectoSO13\ProyectoSO\PlayerUI\bin\Debug\ProyectoSO.exe.config
+C:\Users\Victor\Downloads\ProyectoSO13\ProyectoSO\PlayerUI\bin\Debug\ProyectoSO.exe
+C:\Users\Victor\Downloads\ProyectoSO13\ProyectoSO\PlayerUI\bin\Debug\ProyectoSO.pdb
+C:\Users\Victor\Downloads\ProyectoSO13\ProyectoSO\PlayerUI\bin\Debug\Guna.UI2.dll
+C:\Users\Victor\Downloads\ProyectoSO13\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.csprojAssemblyReference.cache
+C:\Users\Victor\Downloads\ProyectoSO13\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.AyudaForm.resources
+C:\Users\Victor\Downloads\ProyectoSO13\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.EliminarForm.resources
+C:\Users\Victor\Downloads\ProyectoSO13\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.JuegoForm.resources
+C:\Users\Victor\Downloads\ProyectoSO13\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.LoginForm.resources
+C:\Users\Victor\Downloads\ProyectoSO13\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.PrincipalForm.resources
+C:\Users\Victor\Downloads\ProyectoSO13\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.Properties.Resources.resources
+C:\Users\Victor\Downloads\ProyectoSO13\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.csproj.GenerateResource.cache
+C:\Users\Victor\Downloads\ProyectoSO13\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Downloads\ProyectoSO13\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.csproj.CopyComplete
+C:\Users\Victor\Downloads\ProyectoSO13\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.exe
+C:\Users\Victor\Downloads\ProyectoSO13\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.pdb
+C:\Users\Óscar\Downloads\Nueva carpeta (18)\ProyectoSO\PlayerUI\bin\Debug\ProyectoSO.exe.config
+C:\Users\Óscar\Downloads\Nueva carpeta (18)\ProyectoSO\PlayerUI\bin\Debug\ProyectoSO.exe
+C:\Users\Óscar\Downloads\Nueva carpeta (18)\ProyectoSO\PlayerUI\bin\Debug\ProyectoSO.pdb
+C:\Users\Óscar\Downloads\Nueva carpeta (18)\ProyectoSO\PlayerUI\bin\Debug\Guna.UI2.dll
+C:\Users\Óscar\Downloads\Nueva carpeta (18)\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.csprojAssemblyReference.cache
+C:\Users\Óscar\Downloads\Nueva carpeta (18)\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.AyudaForm.resources
+C:\Users\Óscar\Downloads\Nueva carpeta (18)\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.EliminarForm.resources
+C:\Users\Óscar\Downloads\Nueva carpeta (18)\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.JuegoForm.resources
+C:\Users\Óscar\Downloads\Nueva carpeta (18)\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.LoginForm.resources
+C:\Users\Óscar\Downloads\Nueva carpeta (18)\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.PrincipalForm.resources
+C:\Users\Óscar\Downloads\Nueva carpeta (18)\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.Properties.Resources.resources
+C:\Users\Óscar\Downloads\Nueva carpeta (18)\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.csproj.GenerateResource.cache
+C:\Users\Óscar\Downloads\Nueva carpeta (18)\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.csproj.CoreCompileInputs.cache
+C:\Users\Óscar\Downloads\Nueva carpeta (18)\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.csproj.CopyComplete
+C:\Users\Óscar\Downloads\Nueva carpeta (18)\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.exe
+C:\Users\Óscar\Downloads\Nueva carpeta (18)\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.pdb
+D:\Descargas\ProyectoSO\PlayerUI\bin\Debug\ProyectoSO.exe.config
+D:\Descargas\ProyectoSO\PlayerUI\bin\Debug\ProyectoSO.exe
+D:\Descargas\ProyectoSO\PlayerUI\bin\Debug\ProyectoSO.pdb
+D:\Descargas\ProyectoSO\PlayerUI\bin\Debug\Guna.UI2.dll
+D:\Descargas\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.csprojAssemblyReference.cache
+D:\Descargas\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.AyudaForm.resources
+D:\Descargas\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.EliminarForm.resources
+D:\Descargas\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.JuegoForm.resources
+D:\Descargas\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.LoginForm.resources
+D:\Descargas\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.PrincipalForm.resources
+D:\Descargas\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.Properties.Resources.resources
+D:\Descargas\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.csproj.GenerateResource.cache
+D:\Descargas\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.csproj.CoreCompileInputs.cache
+D:\Descargas\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.csproj.CopyComplete
+D:\Descargas\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.exe
+D:\Descargas\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.pdb
+D:\Escritorio\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.AyudaForm.resources
+D:\Escritorio\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.EstadisticasForm.resources
+C:\Users\Óscar\Downloads\Nueva carpeta (20)\ProyectoSO\PlayerUI\bin\Debug\ProyectoSO.exe.config
+C:\Users\Óscar\Downloads\Nueva carpeta (20)\ProyectoSO\PlayerUI\bin\Debug\ProyectoSO.exe
+C:\Users\Óscar\Downloads\Nueva carpeta (20)\ProyectoSO\PlayerUI\bin\Debug\ProyectoSO.pdb
+C:\Users\Óscar\Downloads\Nueva carpeta (20)\ProyectoSO\PlayerUI\bin\Debug\Guna.UI2.dll
+C:\Users\Óscar\Downloads\Nueva carpeta (20)\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.csprojAssemblyReference.cache
+C:\Users\Óscar\Downloads\Nueva carpeta (20)\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.AyudaForm.resources
+C:\Users\Óscar\Downloads\Nueva carpeta (20)\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.EliminarForm.resources
+C:\Users\Óscar\Downloads\Nueva carpeta (20)\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.EstadisticasForm.resources
+C:\Users\Óscar\Downloads\Nueva carpeta (20)\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.JuegoForm.resources
+C:\Users\Óscar\Downloads\Nueva carpeta (20)\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.LoginForm.resources
+C:\Users\Óscar\Downloads\Nueva carpeta (20)\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.PrincipalForm.resources
+C:\Users\Óscar\Downloads\Nueva carpeta (20)\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.Properties.Resources.resources
+C:\Users\Óscar\Downloads\Nueva carpeta (20)\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.csproj.GenerateResource.cache
+C:\Users\Óscar\Downloads\Nueva carpeta (20)\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.csproj.CoreCompileInputs.cache
+C:\Users\Óscar\Downloads\Nueva carpeta (20)\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.csproj.CopyComplete
+C:\Users\Óscar\Downloads\Nueva carpeta (20)\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.exe
+C:\Users\Óscar\Downloads\Nueva carpeta (20)\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.pdb
+D:\Descargas\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.EstadisticasForm.resources
+C:\Users\Óscar\Downloads\Nueva carpeta (21)\ProyectoSO_ActualizadoDeNuevo\PlayerUI\bin\Debug\ProyectoSO.exe.config
+C:\Users\Óscar\Downloads\Nueva carpeta (21)\ProyectoSO_ActualizadoDeNuevo\PlayerUI\bin\Debug\ProyectoSO.exe
+C:\Users\Óscar\Downloads\Nueva carpeta (21)\ProyectoSO_ActualizadoDeNuevo\PlayerUI\bin\Debug\ProyectoSO.pdb
+C:\Users\Óscar\Downloads\Nueva carpeta (21)\ProyectoSO_ActualizadoDeNuevo\PlayerUI\bin\Debug\Guna.UI2.dll
+C:\Users\Óscar\Downloads\Nueva carpeta (21)\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.csprojAssemblyReference.cache
+C:\Users\Óscar\Downloads\Nueva carpeta (21)\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.AyudaForm.resources
+C:\Users\Óscar\Downloads\Nueva carpeta (21)\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.EliminarForm.resources
+C:\Users\Óscar\Downloads\Nueva carpeta (21)\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.EstadisticasForm.resources
+C:\Users\Óscar\Downloads\Nueva carpeta (21)\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.JuegoForm.resources
+C:\Users\Óscar\Downloads\Nueva carpeta (21)\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.LoginForm.resources
+C:\Users\Óscar\Downloads\Nueva carpeta (21)\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.PrincipalForm.resources
+C:\Users\Óscar\Downloads\Nueva carpeta (21)\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.Properties.Resources.resources
+C:\Users\Óscar\Downloads\Nueva carpeta (21)\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.csproj.GenerateResource.cache
+C:\Users\Óscar\Downloads\Nueva carpeta (21)\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.csproj.CoreCompileInputs.cache
+C:\Users\Óscar\Downloads\Nueva carpeta (21)\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.csproj.CopyComplete
+C:\Users\Óscar\Downloads\Nueva carpeta (21)\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.exe
+C:\Users\Óscar\Downloads\Nueva carpeta (21)\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.pdb
+C:\Users\Victor\Downloads\Proyecto_15\ProyectoSO_ActualizadoDeNuevo\PlayerUI\bin\Debug\ProyectoSO.exe.config
+C:\Users\Victor\Downloads\Proyecto_15\ProyectoSO_ActualizadoDeNuevo\PlayerUI\bin\Debug\ProyectoSO.exe
+C:\Users\Victor\Downloads\Proyecto_15\ProyectoSO_ActualizadoDeNuevo\PlayerUI\bin\Debug\ProyectoSO.pdb
+C:\Users\Victor\Downloads\Proyecto_15\ProyectoSO_ActualizadoDeNuevo\PlayerUI\bin\Debug\Guna.UI2.dll
+C:\Users\Victor\Downloads\Proyecto_15\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.csprojAssemblyReference.cache
+C:\Users\Victor\Downloads\Proyecto_15\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.AyudaForm.resources
+C:\Users\Victor\Downloads\Proyecto_15\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.EliminarForm.resources
+C:\Users\Victor\Downloads\Proyecto_15\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.EstadisticasForm.resources
+C:\Users\Victor\Downloads\Proyecto_15\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.JuegoForm.resources
+C:\Users\Victor\Downloads\Proyecto_15\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.LoginForm.resources
+C:\Users\Victor\Downloads\Proyecto_15\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.PrincipalForm.resources
+C:\Users\Victor\Downloads\Proyecto_15\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.Properties.Resources.resources
+C:\Users\Victor\Downloads\Proyecto_15\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.csproj.GenerateResource.cache
+C:\Users\Victor\Downloads\Proyecto_15\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Downloads\Proyecto_15\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.csproj.CopyComplete
+C:\Users\Victor\Downloads\Proyecto_15\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.exe
+C:\Users\Victor\Downloads\Proyecto_15\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.pdb
+C:\Users\Victor\Downloads\Proyecto_def\ProyectoSO_ActualizadoDeNuevo\PlayerUI\bin\Debug\ProyectoSO.exe.config
+C:\Users\Victor\Downloads\Proyecto_def\ProyectoSO_ActualizadoDeNuevo\PlayerUI\bin\Debug\ProyectoSO.exe
+C:\Users\Victor\Downloads\Proyecto_def\ProyectoSO_ActualizadoDeNuevo\PlayerUI\bin\Debug\ProyectoSO.pdb
+C:\Users\Victor\Downloads\Proyecto_def\ProyectoSO_ActualizadoDeNuevo\PlayerUI\bin\Debug\Guna.UI2.dll
+C:\Users\Victor\Downloads\Proyecto_def\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.csprojAssemblyReference.cache
+C:\Users\Victor\Downloads\Proyecto_def\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.AyudaForm.resources
+C:\Users\Victor\Downloads\Proyecto_def\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.EliminarForm.resources
+C:\Users\Victor\Downloads\Proyecto_def\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.EstadisticasForm.resources
+C:\Users\Victor\Downloads\Proyecto_def\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.JuegoForm.resources
+C:\Users\Victor\Downloads\Proyecto_def\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.LoginForm.resources
+C:\Users\Victor\Downloads\Proyecto_def\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.PrincipalForm.resources
+C:\Users\Victor\Downloads\Proyecto_def\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.Properties.Resources.resources
+C:\Users\Victor\Downloads\Proyecto_def\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.csproj.GenerateResource.cache
+C:\Users\Victor\Downloads\Proyecto_def\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Downloads\Proyecto_def\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.csproj.CopyComplete
+C:\Users\Victor\Downloads\Proyecto_def\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.exe
+C:\Users\Victor\Downloads\Proyecto_def\ProyectoSO_ActualizadoDeNuevo\PlayerUI\obj\Debug\ProyectoSO.pdb
+C:\Users\Victor\Downloads\Proyecto_def\ProyectoSO\PlayerUI\bin\Debug\ProyectoSO.exe.config
+C:\Users\Victor\Downloads\Proyecto_def\ProyectoSO\PlayerUI\bin\Debug\ProyectoSO.exe
+C:\Users\Victor\Downloads\Proyecto_def\ProyectoSO\PlayerUI\bin\Debug\ProyectoSO.pdb
+C:\Users\Victor\Downloads\Proyecto_def\ProyectoSO\PlayerUI\bin\Debug\Guna.UI2.dll
+C:\Users\Victor\Downloads\Proyecto_def\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.csprojAssemblyReference.cache
+C:\Users\Victor\Downloads\Proyecto_def\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.AyudaForm.resources
+C:\Users\Victor\Downloads\Proyecto_def\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.EliminarForm.resources
+C:\Users\Victor\Downloads\Proyecto_def\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.EstadisticasForm.resources
+C:\Users\Victor\Downloads\Proyecto_def\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.JuegoForm.resources
+C:\Users\Victor\Downloads\Proyecto_def\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.LoginForm.resources
+C:\Users\Victor\Downloads\Proyecto_def\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.PrincipalForm.resources
+C:\Users\Victor\Downloads\Proyecto_def\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.Properties.Resources.resources
+C:\Users\Victor\Downloads\Proyecto_def\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.csproj.GenerateResource.cache
+C:\Users\Victor\Downloads\Proyecto_def\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Downloads\Proyecto_def\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.csproj.CopyComplete
+C:\Users\Victor\Downloads\Proyecto_def\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.exe
+C:\Users\Victor\Downloads\Proyecto_def\ProyectoSO\PlayerUI\obj\Debug\ProyectoSO.pdb
